@@ -1,0 +1,501 @@
+ticket_id,summary,description,status,assignee,created_at,category,priority
+TKT-0001,Unable to access intranet,User reports they cannot access the internal bank portal.,Open,Conor,2025-04-09T21:04:18.039679,Access Management,High
+TKT-0002,New employee onboarding setup,New employee joining on Monday requires system setup.,Open,Vivek,2025-04-09T21:04:18.041678,User Support,Low
+TKT-0003,Outlook not syncing emails,Emails are not syncing across desktop and mobile devices.,Open,Vivek,2025-04-09T21:04:18.042686,Email,Medium
+TKT-0004,Laptop overheating frequently,Laptop CPU temperatures exceed 90°C while idle.,Open,Conor,2025-04-09T21:04:18.043691,System Performance,Medium
+TKT-0005,Outlook not syncing emails,Emails are not syncing across desktop and mobile devices.,Open,Charlie,2025-04-09T21:04:18.044678,Email,Medium
+TKT-0006,New employee onboarding setup,New employee joining on Monday requires system setup.,Open,Bob,2025-04-09T21:04:18.047081,User Support,Low
+TKT-0007,Outlook not syncing emails,Emails are not syncing across desktop and mobile devices.,Open,Vivek,2025-04-09T21:04:18.047081,Email,Medium
+TKT-0008,Install antivirus software,Antivirus software missing on workstation.,Open,Conor,2025-04-09T21:04:18.049591,Software,Medium
+TKT-0009,Account locked after failed attempts,User account locked due to multiple failed login attempts.,Open,Bob,2025-04-09T21:04:18.050604,Security,Critical
+TKT-0010,File recovery request,Need help recovering accidentally deleted financial files.,Open,Charlie,2025-04-09T21:04:18.052589,User Support,Low
+TKT-0011,System slowness during login,Multiple users report slow login times in the morning.,Open,Charlie,2025-04-09T21:04:18.054591,Security,Critical
+TKT-0012,Missing email from inbox,User cannot locate important client email in inbox.,Open,Diana,2025-04-09T21:04:18.055745,Email,Medium
+TKT-0013,New employee onboarding setup,New employee joining on Monday requires system setup.,Open,Vivek,2025-04-09T21:04:18.056757,User Support,Low
+TKT-0014,Unable to access intranet,User reports they cannot access the internal bank portal.,Open,Paul,2025-04-09T21:04:18.058754,Access Management,High
+TKT-0015,Blue screen error on startup,User encounters BSOD during startup with error 0x0000007B.,Open,Conor,2025-04-09T21:04:18.060744,Software Issue,Critical
+TKT-0016,Cannot connect to shared drive,Shared drive not visible under network locations.,Open,Alice,2025-04-09T21:04:18.062763,Network Issue,High
+TKT-0017,Unable to access intranet,User reports they cannot access the internal bank portal.,Open,Eric,2025-04-09T21:04:18.063761,Access Management,High
+TKT-0018,Request for admin privileges,User requests temporary admin access to install software.,Open,Vivek,2025-04-09T21:04:18.065273,Software,Medium
+TKT-0019,Account locked after failed attempts,User account locked due to multiple failed login attempts.,Open,Diana,2025-04-09T21:04:18.067271,Security,Critical
+TKT-0020,Install antivirus software,Antivirus software missing on workstation.,Open,Bob,2025-04-09T21:04:18.068775,Software,Medium
+TKT-0021,Two-factor authentication setup,Help needed to configure 2FA for remote login.,Open,Fernando,2025-04-09T21:04:18.070793,Security,Critical
+TKT-0022,Mouse and keyboard unresponsive,Mouse and keyboard are not responding after reboot.,Open,Vivek,2025-04-09T21:04:18.071792,Hardware,Medium
+TKT-0023,Laptop overheating frequently,Laptop CPU temperatures exceed 90°C while idle.,Open,Paul,2025-04-09T21:04:18.073779,System Performance,Medium
+TKT-0024,Request for admin privileges,User requests temporary admin access to install software.,Open,Alice,2025-04-09T21:04:18.075311,Software,Medium
+TKT-0025,Account locked after failed attempts,User account locked due to multiple failed login attempts.,Open,Charlie,2025-04-09T21:04:18.077305,Security,Critical
+TKT-0026,Software update failure,Update failed with error code 0x800f0831 on several machines.,Open,Eric,2025-04-09T21:04:18.078809,Software Issue,Critical
+TKT-0027,Access request for finance folder,Need read-only access to finance folder for audit purposes.,Open,Conor,2025-04-09T21:04:18.080318,Access Management,High
+TKT-0028,Install antivirus software,Antivirus software missing on workstation.,Open,Bob,2025-04-09T21:04:18.082318,Software,Medium
+TKT-0029,Password reset required,User forgot their password and is locked out of their account.,Open,Vivek,2025-04-09T21:04:18.083327,Security,Critical
+TKT-0030,Account locked after failed attempts,User account locked due to multiple failed login attempts.,Open,Paul,2025-04-09T21:04:18.085850,Security,Critical
+TKT-0031,Cannot connect to shared drive,Shared drive not visible under network locations.,In Progress,Fernando,2025-04-09T21:04:18.086849,Access Management,Critical
+TKT-0032,Password reset required,User forgot their password and is locked out of their account.,In Progress,Alice,2025-04-09T21:04:18.088850,Monitoring,Medium
+TKT-0033,Software update failure,Update failed with error code 0x800f0831 on several machines.,In Progress,Eric,2025-04-09T21:04:18.090857,Security,Medium
+TKT-0034,Missing email from inbox,User cannot locate important client email in inbox.,In Progress,Alice,2025-04-09T21:04:18.091859,Email,Critical
+TKT-0035,System slowness during login,Multiple users report slow login times in the morning.,In Progress,Charlie,2025-04-09T21:04:18.093849,Software,Low
+TKT-0036,Unable to access intranet,User reports they cannot access the internal bank portal.,In Progress,Alice,2025-04-09T21:04:18.095906,Security,Low
+TKT-0037,Printer not working on 3rd floor,Printer on 3rd floor throws paper jam error frequently.,In Progress,Alice,2025-04-09T21:04:18.096899,Software,Low
+TKT-0038,Password reset required,User forgot their password and is locked out of their account.,In Progress,Fernando,2025-04-09T21:04:18.098899,Access Management,Medium
+TKT-0039,Software update failure,Update failed with error code 0x800f0831 on several machines.,In Progress,Charlie,2025-04-09T21:04:18.100911,Hardware,High
+TKT-0040,Mouse and keyboard unresponsive,Mouse and keyboard are not responding after reboot.,In Progress,Paul,2025-04-09T21:04:18.101909,Email,Critical
+TKT-0041,Blue screen error on startup,User encounters BSOD during startup with error 0x0000007B.,In Progress,Diana,2025-04-09T21:04:18.104407,User Support,Medium
+TKT-0042,Cannot connect to shared drive,Shared drive not visible under network locations.,In Progress,Diana,2025-04-09T21:04:18.105416,Access Management,Medium
+TKT-0043,Unable to access intranet,User reports they cannot access the internal bank portal.,In Progress,Eric,2025-04-09T21:04:18.107416,System Performance,Critical
+TKT-0044,Software update failure,Update failed with error code 0x800f0831 on several machines.,In Progress,Eric,2025-04-09T21:04:18.108923,Network Issue,Medium
+TKT-0045,Cannot connect to shared drive,Shared drive not visible under network locations.,In Progress,Diana,2025-04-09T21:04:18.110931,System Performance,High
+TKT-0046,New employee onboarding setup,New employee joining on Monday requires system setup.,Waiting for User,Paul,2025-04-09T21:04:18.112929,Security,High
+TKT-0047,System slowness during login,Multiple users report slow login times in the morning.,Waiting for User,Fernando,2025-04-09T21:04:18.114434,Hardware,Critical
+TKT-0048,Blue screen error on startup,User encounters BSOD during startup with error 0x0000007B.,Waiting for User,Bob,2025-04-09T21:04:18.116503,Email,Medium
+TKT-0049,Laptop overheating frequently,Laptop CPU temperatures exceed 90°C while idle.,Waiting for User,Bob,2025-04-09T21:04:18.117542,Access Management,High
+TKT-0050,Password reset required,User forgot their password and is locked out of their account.,Waiting for User,Vivek,2025-04-09T21:04:18.119557,Security,Medium
+TKT-0051,Laptop overheating frequently,Laptop CPU temperatures exceed 90°C while idle.,Resolved,Paul,2025-04-09T21:04:18.120511,Monitoring,Low
+TKT-0052,Printer not working on 3rd floor,Printer on 3rd floor throws paper jam error frequently.,Resolved,Eric,2025-04-09T21:04:18.122441,Network Issue,Critical
+TKT-0053,Mouse and keyboard unresponsive,Mouse and keyboard are not responding after reboot.,Resolved,Eric,2025-04-09T21:04:18.124440,System Performance,Low
+TKT-0054,Access request for finance folder,Need read-only access to finance folder for audit purposes.,Resolved,Vivek,2025-04-09T21:04:18.125961,Access Management,High
+TKT-0055,Laptop overheating frequently,Laptop CPU temperatures exceed 90°C while idle.,Resolved,Diana,2025-04-09T21:04:18.126950,User Support,High
+TKT-0056,Cannot connect to shared drive,Shared drive not visible under network locations.,Resolved,Alice,2025-04-09T21:04:18.128456,Printing,Critical
+TKT-0057,Mouse and keyboard unresponsive,Mouse and keyboard are not responding after reboot.,Resolved,Diana,2025-04-09T21:04:18.130465,Software Issue,High
+TKT-0058,Laptop overheating frequently,Laptop CPU temperatures exceed 90°C while idle.,Resolved,Diana,2025-04-09T21:04:18.131466,Printing,Critical
+TKT-0059,System slowness during login,Multiple users report slow login times in the morning.,Resolved,Conor,2025-04-09T21:04:18.133512,Software,Medium
+TKT-0060,Blue screen error on startup,User encounters BSOD during startup with error 0x0000007B.,Resolved,Conor,2025-04-09T21:04:18.135062,Email,Low
+TKT-0061,Two-factor authentication setup,Help needed to configure 2FA for remote login.,Resolved,Conor,2025-04-09T21:04:18.136063,Printing,Critical
+TKT-0062,Blue screen error on startup,User encounters BSOD during startup with error 0x0000007B.,Resolved,Charlie,2025-04-09T21:04:18.137089,Email,Medium
+TKT-0063,Monitor not detecting input,Monitor screen remains black despite power supply.,Resolved,Conor,2025-04-09T21:04:18.139600,User Support,Medium
+TKT-0064,Missing email from inbox,User cannot locate important client email in inbox.,Resolved,Diana,2025-04-09T21:04:18.140610,System Performance,Medium
+TKT-0065,Software update failure,Update failed with error code 0x800f0831 on several machines.,Resolved,Charlie,2025-04-09T21:04:18.142599,Hardware,Critical
+TKT-0066,System slowness during login,Multiple users report slow login times in the morning.,Resolved,Paul,2025-04-09T21:04:18.143609,Hardware,Critical
+TKT-0067,File recovery request,Need help recovering accidentally deleted financial files.,Resolved,Bob,2025-04-09T21:04:18.145128,Hardware,Critical
+TKT-0068,Install antivirus software,Antivirus software missing on workstation.,Resolved,Diana,2025-04-09T21:04:18.146136,Software,Critical
+TKT-0069,Mouse and keyboard unresponsive,Mouse and keyboard are not responding after reboot.,Resolved,Conor,2025-04-09T21:04:18.147134,Printing,Medium
+TKT-0070,New employee onboarding setup,New employee joining on Monday requires system setup.,Resolved,Diana,2025-04-09T21:04:18.149644,Hardware,Low
+TKT-0071,Outlook not syncing emails,Emails are not syncing across desktop and mobile devices.,Closed,Vivek,2025-04-09T21:04:18.151643,Email,Low
+TKT-0072,Unable to access intranet,User reports they cannot access the internal bank portal.,Closed,Charlie,2025-04-09T21:04:18.153643,Email,High
+TKT-0073,System slowness during login,Multiple users report slow login times in the morning.,Closed,Eric,2025-04-09T21:04:18.155147,User Support,High
+TKT-0074,Cannot connect to shared drive,Shared drive not visible under network locations.,Closed,Fernando,2025-04-09T21:04:18.157153,Email,Low
+TKT-0075,Cannot connect to shared drive,Shared drive not visible under network locations.,Closed,Diana,2025-04-09T21:04:18.158659,Software,High
+TKT-0076,Laptop overheating frequently,Laptop CPU temperatures exceed 90°C while idle.,Closed,Charlie,2025-04-09T21:04:18.160668,Network Issue,Medium
+TKT-0077,Missing email from inbox,User cannot locate important client email in inbox.,Closed,Alice,2025-04-09T21:04:18.161669,System Performance,Medium
+TKT-0078,Install antivirus software,Antivirus software missing on workstation.,Closed,Paul,2025-04-09T21:04:18.163668,Hardware,High
+TKT-0079,Printer not working on 3rd floor,Printer on 3rd floor throws paper jam error frequently.,Closed,Paul,2025-04-09T21:04:18.165181,User Support,Critical
+TKT-0080,Access request for finance folder,Need read-only access to finance folder for audit purposes.,Closed,Conor,2025-04-09T21:04:18.167187,Hardware,High
+TKT-0081,Unable to access intranet,User reports they cannot access the internal bank portal.,Closed,Paul,2025-04-09T21:04:18.168691,Email,Low
+TKT-0082,Software update failure,Update failed with error code 0x800f0831 on several machines.,Closed,Conor,2025-04-09T21:04:18.169700,Hardware,Medium
+TKT-0083,Request for admin privileges,User requests temporary admin access to install software.,Closed,Eric,2025-04-09T21:04:18.171699,User Support,Critical
+TKT-0084,VPN connection timeout,VPN disconnects after 5 minutes of use.,Closed,Conor,2025-04-09T21:04:18.172700,Network Issue,Medium
+TKT-0085,Install antivirus software,Antivirus software missing on workstation.,Closed,Eric,2025-04-09T21:04:18.174776,Access Management,High
+TKT-0086,Mouse and keyboard unresponsive,Mouse and keyboard are not responding after reboot.,Closed,Charlie,2025-04-09T21:04:18.176959,Security,Critical
+TKT-0087,Unable to access intranet,User reports they cannot access the internal bank portal.,Closed,Bob,2025-04-09T21:04:18.178465,Access Management,High
+TKT-0088,Account locked after failed attempts,User account locked due to multiple failed login attempts.,Closed,Eric,2025-04-09T21:04:18.179483,Security,Low
+TKT-0089,Outlook not syncing emails,Emails are not syncing across desktop and mobile devices.,Closed,Conor,2025-04-09T21:04:18.181507,Hardware,Medium
+TKT-0090,Mouse and keyboard unresponsive,Mouse and keyboard are not responding after reboot.,Closed,Fernando,2025-04-09T21:04:18.183503,System Performance,Low
+TKT-0091,Request for admin privileges,User requests temporary admin access to install software.,Closed,Fernando,2025-04-09T21:04:18.185025,Hardware,Critical
+TKT-0092,Mouse and keyboard unresponsive,Mouse and keyboard are not responding after reboot.,Closed,Eric,2025-04-09T21:04:18.187030,System Performance,Critical
+TKT-0093,Account locked after failed attempts,User account locked due to multiple failed login attempts.,Closed,Charlie,2025-04-09T21:04:18.188549,System Performance,Critical
+TKT-0094,Blue screen error on startup,User encounters BSOD during startup with error 0x0000007B.,Closed,Paul,2025-04-09T21:04:18.190558,Software,Critical
+TKT-0095,Password reset required,User forgot their password and is locked out of their account.,Closed,Conor,2025-04-09T21:04:18.192566,Hardware,High
+TKT-0096,Unable to access intranet,User reports they cannot access the internal bank portal.,Closed,Vivek,2025-04-09T21:04:18.193566,Hardware,High
+TKT-0097,File recovery request,Need help recovering accidentally deleted financial files.,Closed,Alice,2025-04-09T21:04:18.196077,Access Management,Critical
+TKT-0098,Outlook not syncing emails,Emails are not syncing across desktop and mobile devices.,Closed,Conor,2025-04-09T21:04:18.197088,Hardware,Critical
+TKT-0099,VPN connection timeout,VPN disconnects after 5 minutes of use.,Closed,Vivek,2025-04-09T21:04:18.199615,Software,Low
+TKT-0100,Laptop overheating frequently,Laptop CPU temperatures exceed 90°C while idle.,Closed,Vivek,2025-04-09T21:04:18.200625,Printing,Low
+TKT-0101,Request for admin privileges,User requests temporary admin access to install software.,Closed,Eric,2025-04-09T21:04:18.202623,Monitoring,Low
+TKT-0102,Printer not working on 3rd floor,Printer on 3rd floor throws paper jam error frequently.,Closed,Vivek,2025-04-09T21:04:18.204615,Email,Critical
+TKT-0103,Unable to access intranet,User reports they cannot access the internal bank portal.,Closed,Alice,2025-04-09T21:04:18.205750,Monitoring,Critical
+TKT-0104,VPN connection timeout,VPN disconnects after 5 minutes of use.,Closed,Conor,2025-04-09T21:04:18.207733,Monitoring,Medium
+TKT-0105,Two-factor authentication setup,Help needed to configure 2FA for remote login.,Closed,Bob,2025-04-09T21:04:18.208747,Printing,High
+TKT-0106,Two-factor authentication setup,Help needed to configure 2FA for remote login.,Closed,Paul,2025-04-09T21:04:18.210740,System Performance,Critical
+TKT-0107,Mouse and keyboard unresponsive,Mouse and keyboard are not responding after reboot.,Closed,Bob,2025-04-09T21:04:18.212733,Email,Medium
+TKT-0108,Missing email from inbox,User cannot locate important client email in inbox.,Closed,Conor,2025-04-09T21:04:18.214740,System Performance,High
+TKT-0109,Cannot connect to shared drive,Shared drive not visible under network locations.,Closed,Fernando,2025-04-09T21:04:18.215781,Printing,High
+TKT-0110,Install antivirus software,Antivirus software missing on workstation.,Closed,Paul,2025-04-09T21:04:18.217780,Network Issue,Medium
+TKT-0111,Password reset required,User forgot their password and is locked out of their account.,Closed,Paul,2025-04-09T21:04:18.218793,System Performance,Low
+TKT-0112,New employee onboarding setup,New employee joining on Monday requires system setup.,Closed,Alice,2025-04-09T21:04:18.220781,Software Issue,Critical
+TKT-0113,Password reset required,User forgot their password and is locked out of their account.,Closed,Eric,2025-04-09T21:04:18.222781,Software Issue,Critical
+TKT-0114,System slowness during login,Multiple users report slow login times in the morning.,Closed,Fernando,2025-04-09T21:04:18.223788,Software,Medium
+TKT-0115,Outlook not syncing emails,Emails are not syncing across desktop and mobile devices.,Closed,Conor,2025-04-09T21:04:18.225298,Hardware,High
+TKT-0116,Access request for finance folder,Need read-only access to finance folder for audit purposes.,Closed,Diana,2025-04-09T21:04:18.227295,Email,Medium
+TKT-0117,Account locked after failed attempts,User account locked due to multiple failed login attempts.,Closed,Bob,2025-04-09T21:04:18.228799,System Performance,Medium
+TKT-0118,VPN connection timeout,VPN disconnects after 5 minutes of use.,Closed,Conor,2025-04-09T21:04:18.230813,Software,Low
+TKT-0119,Missing email from inbox,User cannot locate important client email in inbox.,Closed,Fernando,2025-04-09T21:04:18.232802,Monitoring,Low
+TKT-0120,Account locked after failed attempts,User account locked due to multiple failed login attempts.,Closed,Vivek,2025-04-09T21:04:18.235330,Email,Critical
+TKT-0121,Software update failure,Update failed with error code 0x800f0831 on several machines.,Closed,Vivek,2025-04-09T21:04:18.237340,User Support,Low
+TKT-0122,Monitor not detecting input,Monitor screen remains black despite power supply.,Closed,Charlie,2025-04-09T21:04:18.238846,System Performance,High
+TKT-0123,Password reset required,User forgot their password and is locked out of their account.,Closed,Bob,2025-04-09T21:04:18.239851,Email,Low
+TKT-0124,File recovery request,Need help recovering accidentally deleted financial files.,Closed,Diana,2025-04-09T21:04:18.241860,System Performance,High
+TKT-0125,Unable to access intranet,User reports they cannot access the internal bank portal.,Closed,Bob,2025-04-09T21:04:18.243856,Access Management,High
+TKT-0126,Access request for finance folder,Need read-only access to finance folder for audit purposes.,Closed,Bob,2025-04-09T21:04:18.245367,Access Management,High
+TKT-0127,New employee onboarding setup,New employee joining on Monday requires system setup.,Closed,Bob,2025-04-09T21:04:18.247372,Email,High
+TKT-0128,Laptop overheating frequently,Laptop CPU temperatures exceed 90°C while idle.,Closed,Conor,2025-04-09T21:04:18.248881,Hardware,High
+TKT-0129,Access request for finance folder,Need read-only access to finance folder for audit purposes.,Closed,Conor,2025-04-09T21:04:18.250891,Network Issue,Medium
+TKT-0130,New employee onboarding setup,New employee joining on Monday requires system setup.,Closed,Conor,2025-04-09T21:04:18.251892,User Support,High
+TKT-0131,Monitor not detecting input,Monitor screen remains black despite power supply.,Closed,Charlie,2025-04-09T21:04:18.252891,User Support,Low
+TKT-0132,New employee onboarding setup,New employee joining on Monday requires system setup.,Closed,Charlie,2025-04-09T21:04:18.255411,User Support,Medium
+TKT-0133,File recovery request,Need help recovering accidentally deleted financial files.,Closed,Diana,2025-04-09T21:04:18.257412,Security,Medium
+TKT-0134,Monitor not detecting input,Monitor screen remains black despite power supply.,Closed,Paul,2025-04-09T21:04:18.258922,Software,High
+TKT-0135,Missing email from inbox,User cannot locate important client email in inbox.,Closed,Paul,2025-04-09T21:04:18.261010,Email,Medium
+TKT-0136,Cannot connect to shared drive,Shared drive not visible under network locations.,Closed,Bob,2025-04-09T21:04:18.261928,Software,Critical
+TKT-0137,Mouse and keyboard unresponsive,Mouse and keyboard are not responding after reboot.,Closed,Diana,2025-04-09T21:04:18.263014,Hardware,Low
+TKT-0138,System slowness during login,Multiple users report slow login times in the morning.,Closed,Diana,2025-04-09T21:04:18.265685,Software Issue,Medium
+TKT-0139,Cannot connect to shared drive,Shared drive not visible under network locations.,Closed,Diana,2025-04-09T21:04:18.267700,Network Issue,Medium
+TKT-0140,Printer not working on 3rd floor,Printer on 3rd floor throws paper jam error frequently.,Closed,Paul,2025-04-09T21:04:18.268692,Email,High
+TKT-0141,Account locked after failed attempts,User account locked due to multiple failed login attempts.,Closed,Diana,2025-04-09T21:04:18.270694,Network Issue,Low
+TKT-0142,Mouse and keyboard unresponsive,Mouse and keyboard are not responding after reboot.,Closed,Eric,2025-04-09T21:04:18.272613,Hardware,High
+TKT-0143,Mouse and keyboard unresponsive,Mouse and keyboard are not responding after reboot.,Closed,Bob,2025-04-09T21:04:18.274621,Software Issue,Medium
+TKT-0144,Missing email from inbox,User cannot locate important client email in inbox.,Closed,Bob,2025-04-09T21:04:18.276145,User Support,High
+TKT-0145,Printer not working on 3rd floor,Printer on 3rd floor throws paper jam error frequently.,Closed,Bob,2025-04-09T21:04:18.277151,User Support,Low
+TKT-0146,New employee onboarding setup,New employee joining on Monday requires system setup.,Closed,Conor,2025-04-09T21:04:18.279678,Software,High
+TKT-0147,Two-factor authentication setup,Help needed to configure 2FA for remote login.,Closed,Bob,2025-04-09T21:04:18.281693,Email,Medium
+TKT-0148,System slowness during login,Multiple users report slow login times in the morning.,Closed,Conor,2025-04-09T21:04:18.283693,Security,Low
+TKT-0149,Two-factor authentication setup,Help needed to configure 2FA for remote login.,Closed,Bob,2025-04-09T21:04:18.286224,User Support,High
+TKT-0150,Cannot connect to shared drive,Shared drive not visible under network locations.,Closed,Alice,2025-04-09T21:04:18.287212,Printing,Medium
+TKT-0151,Request for admin privileges,User requests temporary admin access to install software.,Closed,Bob,2025-04-09T21:04:18.290725,Hardware,Low
+TKT-0152,VPN connection timeout,VPN disconnects after 5 minutes of use.,Closed,Eric,2025-04-09T21:04:18.292724,Printing,Critical
+TKT-0153,System slowness during login,Multiple users report slow login times in the morning.,Closed,Alice,2025-04-09T21:04:18.294723,Monitoring,High
+TKT-0154,Outlook not syncing emails,Emails are not syncing across desktop and mobile devices.,Closed,Eric,2025-04-09T21:04:18.296234,Software,High
+TKT-0155,Two-factor authentication setup,Help needed to configure 2FA for remote login.,Closed,Bob,2025-04-09T21:04:18.298739,User Support,High
+TKT-0156,System slowness during login,Multiple users report slow login times in the morning.,Closed,Eric,2025-04-09T21:04:18.300748,System Performance,Low
+TKT-0157,Missing email from inbox,User cannot locate important client email in inbox.,Closed,Alice,2025-04-09T21:04:18.301748,Software,Medium
+TKT-0158,Password reset required,User forgot their password and is locked out of their account.,Closed,Diana,2025-04-09T21:04:18.303747,Access Management,Low
+TKT-0159,Cannot connect to shared drive,Shared drive not visible under network locations.,Closed,Paul,2025-04-09T21:04:18.305893,System Performance,High
+TKT-0160,File recovery request,Need help recovering accidentally deleted financial files.,Closed,Eric,2025-04-09T21:04:18.307893,Access Management,Low
+TKT-0161,Mouse and keyboard unresponsive,Mouse and keyboard are not responding after reboot.,Closed,Charlie,2025-04-09T21:04:18.309893,System Performance,Medium
+TKT-0162,Install antivirus software,Antivirus software missing on workstation.,Closed,Eric,2025-04-09T21:04:18.310894,User Support,Critical
+TKT-0163,Mouse and keyboard unresponsive,Mouse and keyboard are not responding after reboot.,Closed,Charlie,2025-04-09T21:04:18.312893,Printing,Medium
+TKT-0164,VPN connection timeout,VPN disconnects after 5 minutes of use.,Closed,Alice,2025-04-09T21:04:18.315412,Security,Low
+TKT-0165,Unable to access intranet,User reports they cannot access the internal bank portal.,Closed,Conor,2025-04-09T21:04:18.316414,Software,Low
+TKT-0166,VPN connection timeout,VPN disconnects after 5 minutes of use.,Closed,Fernando,2025-04-09T21:04:18.318922,Software,Low
+TKT-0167,Account locked after failed attempts,User account locked due to multiple failed login attempts.,Closed,Charlie,2025-04-09T21:04:18.319933,Monitoring,Medium
+TKT-0168,Request for admin privileges,User requests temporary admin access to install software.,Closed,Conor,2025-04-09T21:04:18.321932,System Performance,Low
+TKT-0169,Laptop overheating frequently,Laptop CPU temperatures exceed 90°C while idle.,Closed,Eric,2025-04-09T21:04:18.324442,Access Management,Critical
+TKT-0170,Cannot connect to shared drive,Shared drive not visible under network locations.,Closed,Paul,2025-04-09T21:04:18.325452,Software Issue,Medium
+TKT-0171,Password reset required,User forgot their password and is locked out of their account.,Closed,Vivek,2025-04-09T21:04:18.327451,User Support,Medium
+TKT-0172,Missing email from inbox,User cannot locate important client email in inbox.,Closed,Charlie,2025-04-09T21:04:18.329452,System Performance,Critical
+TKT-0173,Missing email from inbox,User cannot locate important client email in inbox.,Closed,Diana,2025-04-09T21:04:18.331452,Software,Low
+TKT-0174,New employee onboarding setup,New employee joining on Monday requires system setup.,Closed,Conor,2025-04-09T21:04:18.333452,Network Issue,Medium
+TKT-0175,Request for admin privileges,User requests temporary admin access to install software.,Closed,Eric,2025-04-09T21:04:18.334964,Security,Low
+TKT-0176,Mouse and keyboard unresponsive,Mouse and keyboard are not responding after reboot.,Closed,Paul,2025-04-09T21:04:18.336969,Monitoring,Critical
+TKT-0177,Unable to access intranet,User reports they cannot access the internal bank portal.,Closed,Conor,2025-04-09T21:04:18.338478,User Support,Critical
+TKT-0178,Install antivirus software,Antivirus software missing on workstation.,Closed,Diana,2025-04-09T21:04:18.340488,Software,High
+TKT-0179,Laptop overheating frequently,Laptop CPU temperatures exceed 90°C while idle.,Closed,Eric,2025-04-09T21:04:18.342489,Network Issue,Medium
+TKT-0180,Cannot connect to shared drive,Shared drive not visible under network locations.,Closed,Bob,2025-04-09T21:04:18.343487,Software,Critical
+TKT-0181,Monitor not detecting input,Monitor screen remains black despite power supply.,Closed,Paul,2025-04-09T21:04:18.346006,Monitoring,High
+TKT-0182,Blue screen error on startup,User encounters BSOD during startup with error 0x0000007B.,Closed,Conor,2025-04-09T21:04:18.347007,System Performance,Low
+TKT-0183,Cannot connect to shared drive,Shared drive not visible under network locations.,Closed,Alice,2025-04-09T21:04:18.349526,Software,Low
+TKT-0184,Request for admin privileges,User requests temporary admin access to install software.,Closed,Bob,2025-04-09T21:04:18.351526,Software Issue,High
+TKT-0185,Printer not working on 3rd floor,Printer on 3rd floor throws paper jam error frequently.,Closed,Conor,2025-04-09T21:04:18.353526,Printing,High
+TKT-0186,Software update failure,Update failed with error code 0x800f0831 on several machines.,Closed,Bob,2025-04-09T21:04:18.355039,Software,Critical
+TKT-0187,Cannot connect to shared drive,Shared drive not visible under network locations.,Closed,Alice,2025-04-09T21:04:18.357045,User Support,Critical
+TKT-0188,New employee onboarding setup,New employee joining on Monday requires system setup.,Closed,Conor,2025-04-09T21:04:18.358554,Software Issue,High
+TKT-0189,Cannot connect to shared drive,Shared drive not visible under network locations.,Closed,Conor,2025-04-09T21:04:18.360564,System Performance,Medium
+TKT-0190,File recovery request,Need help recovering accidentally deleted financial files.,Closed,Diana,2025-04-09T21:04:18.362565,Software,Critical
+TKT-0191,Mouse and keyboard unresponsive,Mouse and keyboard are not responding after reboot.,Closed,Diana,2025-04-09T21:04:18.364564,Access Management,Medium
+TKT-0192,New employee onboarding setup,New employee joining on Monday requires system setup.,Closed,Alice,2025-04-09T21:04:18.366082,Email,Low
+TKT-0193,Two-factor authentication setup,Help needed to configure 2FA for remote login.,Closed,Bob,2025-04-09T21:04:18.368591,Security,High
+TKT-0194,Printer not working on 3rd floor,Printer on 3rd floor throws paper jam error frequently.,Closed,Fernando,2025-04-09T21:04:18.370601,Printing,High
+TKT-0195,Account locked after failed attempts,User account locked due to multiple failed login attempts.,Closed,Eric,2025-04-09T21:04:18.371601,Access Management,Critical
+TKT-0196,Install antivirus software,Antivirus software missing on workstation.,Closed,Fernando,2025-04-09T21:04:18.373601,Printing,Medium
+TKT-0197,Printer not working on 3rd floor,Printer on 3rd floor throws paper jam error frequently.,Closed,Conor,2025-04-09T21:04:18.376119,System Performance,Low
+TKT-0198,Monitor not detecting input,Monitor screen remains black despite power supply.,Closed,Paul,2025-04-09T21:04:18.377119,System Performance,Critical
+TKT-0199,Cannot connect to shared drive,Shared drive not visible under network locations.,Closed,Vivek,2025-04-09T21:04:18.379639,Network Issue,Medium
+TKT-0200,Printer not working on 3rd floor,Printer on 3rd floor throws paper jam error frequently.,Closed,Vivek,2025-04-09T21:04:18.381649,Software Issue,High
+TKT-0201,Printer not working on 3rd floor,Printer on 3rd floor throws paper jam error frequently.,Closed,Charlie,2025-04-09T21:04:18.383649,Access Management,Low
+TKT-0202,Unable to access intranet,User reports they cannot access the internal bank portal.,Closed,Charlie,2025-04-09T21:04:18.385161,Email,Low
+TKT-0203,Printer not working on 3rd floor,Printer on 3rd floor throws paper jam error frequently.,Closed,Diana,2025-04-09T21:04:18.387166,Network Issue,High
+TKT-0204,New employee onboarding setup,New employee joining on Monday requires system setup.,Closed,Diana,2025-04-09T21:04:18.389686,Email,Medium
+TKT-0205,Cannot connect to shared drive,Shared drive not visible under network locations.,Closed,Vivek,2025-04-09T21:04:18.390686,Printing,Medium
+TKT-0206,Account locked after failed attempts,User account locked due to multiple failed login attempts.,Closed,Vivek,2025-04-09T21:04:18.392687,Software,High
+TKT-0207,File recovery request,Need help recovering accidentally deleted financial files.,Closed,Alice,2025-04-09T21:04:18.395199,System Performance,Medium
+TKT-0208,Software update failure,Update failed with error code 0x800f0831 on several machines.,Closed,Vivek,2025-04-09T21:04:18.397204,Software,Critical
+TKT-0209,Mouse and keyboard unresponsive,Mouse and keyboard are not responding after reboot.,Closed,Charlie,2025-04-09T21:04:18.398794,Monitoring,High
+TKT-0210,Account locked after failed attempts,User account locked due to multiple failed login attempts.,Closed,Paul,2025-04-09T21:04:18.400875,Software Issue,Low
+TKT-0211,Password reset required,User forgot their password and is locked out of their account.,Closed,Bob,2025-04-09T21:04:18.402869,Network Issue,Critical
+TKT-0212,Access request for finance folder,Need read-only access to finance folder for audit purposes.,Closed,Paul,2025-04-09T21:04:18.404873,Software Issue,Medium
+TKT-0213,VPN connection timeout,VPN disconnects after 5 minutes of use.,Closed,Conor,2025-04-09T21:04:18.407183,User Support,Low
+TKT-0214,New employee onboarding setup,New employee joining on Monday requires system setup.,Closed,Fernando,2025-04-09T21:04:18.408709,Hardware,Low
+TKT-0215,Monitor not detecting input,Monitor screen remains black despite power supply.,Closed,Alice,2025-04-09T21:04:18.410720,Software,Low
+TKT-0216,New employee onboarding setup,New employee joining on Monday requires system setup.,Closed,Eric,2025-04-09T21:04:18.412727,System Performance,Critical
+TKT-0217,Cannot connect to shared drive,Shared drive not visible under network locations.,Closed,Diana,2025-04-09T21:04:18.415245,System Performance,Low
+TKT-0218,Password reset required,User forgot their password and is locked out of their account.,Closed,Paul,2025-04-09T21:04:18.416257,Security,Low
+TKT-0219,Request for admin privileges,User requests temporary admin access to install software.,Closed,Paul,2025-04-09T21:04:18.418773,Security,Low
+TKT-0220,Account locked after failed attempts,User account locked due to multiple failed login attempts.,Closed,Alice,2025-04-09T21:04:18.420794,Security,Critical
+TKT-0221,Outlook not syncing emails,Emails are not syncing across desktop and mobile devices.,Closed,Eric,2025-04-09T21:04:18.422788,Network Issue,High
+TKT-0222,Unable to access intranet,User reports they cannot access the internal bank portal.,Closed,Fernando,2025-04-09T21:04:18.424788,Network Issue,Low
+TKT-0223,Password reset required,User forgot their password and is locked out of their account.,Closed,Charlie,2025-04-09T21:04:18.426317,Software Issue,Low
+TKT-0224,Software update failure,Update failed with error code 0x800f0831 on several machines.,Closed,Diana,2025-04-09T21:04:18.429834,Email,High
+TKT-0225,Password reset required,User forgot their password and is locked out of their account.,Closed,Paul,2025-04-09T21:04:18.431832,User Support,Low
+TKT-0226,Unable to access intranet,User reports they cannot access the internal bank portal.,Closed,Charlie,2025-04-09T21:04:18.433840,Software,Low
+TKT-0227,Account locked after failed attempts,User account locked due to multiple failed login attempts.,Closed,Eric,2025-04-09T21:04:18.436371,Printing,Low
+TKT-0228,New employee onboarding setup,New employee joining on Monday requires system setup.,Closed,Paul,2025-04-09T21:04:18.437356,System Performance,High
+TKT-0229,Install antivirus software,Antivirus software missing on workstation.,Closed,Bob,2025-04-09T21:04:18.440892,Security,Low
+TKT-0230,Install antivirus software,Antivirus software missing on workstation.,Closed,Bob,2025-04-09T21:04:18.442898,Access Management,High
+TKT-0231,Account locked after failed attempts,User account locked due to multiple failed login attempts.,Closed,Charlie,2025-04-09T21:04:18.445422,User Support,High
+TKT-0232,Two-factor authentication setup,Help needed to configure 2FA for remote login.,Closed,Paul,2025-04-09T21:04:18.447423,Software,High
+TKT-0233,File recovery request,Need help recovering accidentally deleted financial files.,Closed,Alice,2025-04-09T21:04:18.449945,Software Issue,Low
+TKT-0234,Laptop overheating frequently,Laptop CPU temperatures exceed 90°C while idle.,Closed,Eric,2025-04-09T21:04:18.451945,Network Issue,Critical
+TKT-0235,Missing email from inbox,User cannot locate important client email in inbox.,Closed,Fernando,2025-04-09T21:04:18.454465,User Support,Medium
+TKT-0236,VPN connection timeout,VPN disconnects after 5 minutes of use.,Closed,Eric,2025-04-09T21:04:18.456474,Software Issue,High
+TKT-0237,VPN connection timeout,VPN disconnects after 5 minutes of use.,Closed,Fernando,2025-04-09T21:04:18.458475,Access Management,High
+TKT-0238,Mouse and keyboard unresponsive,Mouse and keyboard are not responding after reboot.,Closed,Bob,2025-04-09T21:04:18.460474,Monitoring,High
+TKT-0239,Cannot connect to shared drive,Shared drive not visible under network locations.,Closed,Diana,2025-04-09T21:04:18.462474,Email,Low
+TKT-0240,File recovery request,Need help recovering accidentally deleted financial files.,Closed,Paul,2025-04-09T21:04:18.464986,Hardware,Medium
+TKT-0241,Monitor not detecting input,Monitor screen remains black despite power supply.,Closed,Eric,2025-04-09T21:04:18.466991,Email,Low
+TKT-0242,Mouse and keyboard unresponsive,Mouse and keyboard are not responding after reboot.,Closed,Vivek,2025-04-09T21:04:18.468499,Software Issue,Critical
+TKT-0243,File recovery request,Need help recovering accidentally deleted financial files.,Closed,Vivek,2025-04-09T21:04:18.470508,Hardware,Low
+TKT-0244,Two-factor authentication setup,Help needed to configure 2FA for remote login.,Closed,Paul,2025-04-09T21:04:18.472508,Hardware,Critical
+TKT-0245,Software update failure,Update failed with error code 0x800f0831 on several machines.,Closed,Bob,2025-04-09T21:04:18.475020,User Support,High
+TKT-0246,System slowness during login,Multiple users report slow login times in the morning.,Closed,Vivek,2025-04-09T21:04:18.477025,Software Issue,Low
+TKT-0247,Mouse and keyboard unresponsive,Mouse and keyboard are not responding after reboot.,Closed,Alice,2025-04-09T21:04:18.478533,Email,High
+TKT-0248,Mouse and keyboard unresponsive,Mouse and keyboard are not responding after reboot.,Closed,Conor,2025-04-09T21:04:18.480552,Access Management,Low
+TKT-0249,Missing email from inbox,User cannot locate important client email in inbox.,Closed,Eric,2025-04-09T21:04:18.482552,User Support,Low
+TKT-0250,Printer not working on 3rd floor,Printer on 3rd floor throws paper jam error frequently.,Closed,Conor,2025-04-09T21:04:18.485064,Software Issue,High
+TKT-0251,Unable to access intranet,User reports they cannot access the internal bank portal.,Closed,Eric,2025-04-09T21:04:18.487069,User Support,High
+TKT-0252,Install antivirus software,Antivirus software missing on workstation.,Closed,Conor,2025-04-09T21:04:18.488577,Printing,Low
+TKT-0253,Laptop overheating frequently,Laptop CPU temperatures exceed 90°C while idle.,Closed,Paul,2025-04-09T21:04:18.490657,Software,Critical
+TKT-0254,Unable to access intranet,User reports they cannot access the internal bank portal.,Closed,Eric,2025-04-09T21:04:18.493652,Monitoring,High
+TKT-0255,Printer not working on 3rd floor,Printer on 3rd floor throws paper jam error frequently.,Closed,Vivek,2025-04-09T21:04:18.495238,Email,High
+TKT-0256,Laptop overheating frequently,Laptop CPU temperatures exceed 90°C while idle.,Closed,Vivek,2025-04-09T21:04:18.497308,Access Management,High
+TKT-0257,Two-factor authentication setup,Help needed to configure 2FA for remote login.,Closed,Fernando,2025-04-09T21:04:18.498885,Software Issue,Critical
+TKT-0258,Password reset required,User forgot their password and is locked out of their account.,Closed,Vivek,2025-04-09T21:04:18.500961,User Support,Critical
+TKT-0259,Laptop overheating frequently,Laptop CPU temperatures exceed 90°C while idle.,Closed,Charlie,2025-04-09T21:04:18.502962,Security,Low
+TKT-0260,Monitor not detecting input,Monitor screen remains black despite power supply.,Closed,Fernando,2025-04-09T21:04:18.505545,Software Issue,Medium
+TKT-0261,Request for admin privileges,User requests temporary admin access to install software.,Closed,Alice,2025-04-09T21:04:18.507535,Hardware,High
+TKT-0262,Mouse and keyboard unresponsive,Mouse and keyboard are not responding after reboot.,Closed,Conor,2025-04-09T21:04:18.509535,Software Issue,Medium
+TKT-0263,File recovery request,Need help recovering accidentally deleted financial files.,Closed,Vivek,2025-04-09T21:04:18.511534,System Performance,Low
+TKT-0264,VPN connection timeout,VPN disconnects after 5 minutes of use.,Closed,Diana,2025-04-09T21:04:18.513540,Network Issue,Low
+TKT-0265,Printer not working on 3rd floor,Printer on 3rd floor throws paper jam error frequently.,Closed,Charlie,2025-04-09T21:04:18.516052,Hardware,Low
+TKT-0266,Blue screen error on startup,User encounters BSOD during startup with error 0x0000007B.,Closed,Eric,2025-04-09T21:04:18.517058,Access Management,Low
+TKT-0267,Install antivirus software,Antivirus software missing on workstation.,Closed,Conor,2025-04-09T21:04:18.520585,Network Issue,High
+TKT-0268,System slowness during login,Multiple users report slow login times in the morning.,Closed,Conor,2025-04-09T21:04:18.522593,Hardware,Low
+TKT-0269,Outlook not syncing emails,Emails are not syncing across desktop and mobile devices.,Closed,Vivek,2025-04-09T21:04:18.524592,Access Management,High
+TKT-0270,Missing email from inbox,User cannot locate important client email in inbox.,Closed,Charlie,2025-04-09T21:04:18.526111,System Performance,Critical
+TKT-0271,File recovery request,Need help recovering accidentally deleted financial files.,Closed,Alice,2025-04-09T21:04:18.528624,Network Issue,Low
+TKT-0272,Cannot connect to shared drive,Shared drive not visible under network locations.,Closed,Vivek,2025-04-09T21:04:18.530641,Access Management,High
+TKT-0273,Request for admin privileges,User requests temporary admin access to install software.,Closed,Eric,2025-04-09T21:04:18.532635,Software,High
+TKT-0274,Missing email from inbox,User cannot locate important client email in inbox.,Closed,Diana,2025-04-09T21:04:18.534635,Security,High
+TKT-0275,Request for admin privileges,User requests temporary admin access to install software.,Closed,Paul,2025-04-09T21:04:18.536794,Printing,Medium
+TKT-0276,New employee onboarding setup,New employee joining on Monday requires system setup.,Closed,Fernando,2025-04-09T21:04:18.539789,Monitoring,Low
+TKT-0277,Outlook not syncing emails,Emails are not syncing across desktop and mobile devices.,Closed,Conor,2025-04-09T21:04:18.541792,Security,Critical
+TKT-0278,Outlook not syncing emails,Emails are not syncing across desktop and mobile devices.,Closed,Eric,2025-04-09T21:04:18.543790,System Performance,Low
+TKT-0279,Missing email from inbox,User cannot locate important client email in inbox.,Closed,Paul,2025-04-09T21:04:18.545308,Access Management,Critical
+TKT-0280,System slowness during login,Multiple users report slow login times in the morning.,Closed,Paul,2025-04-09T21:04:18.547316,Printing,Medium
+TKT-0281,Printer not working on 3rd floor,Printer on 3rd floor throws paper jam error frequently.,Closed,Diana,2025-04-09T21:04:18.549855,Hardware,Low
+TKT-0282,Account locked after failed attempts,User account locked due to multiple failed login attempts.,Closed,Alice,2025-04-09T21:04:18.551850,Software Issue,Critical
+TKT-0283,Password reset required,User forgot their password and is locked out of their account.,Closed,Diana,2025-04-09T21:04:18.553843,User Support,Low
+TKT-0284,New employee onboarding setup,New employee joining on Monday requires system setup.,Closed,Eric,2025-04-09T21:04:18.556379,Access Management,High
+TKT-0285,Printer not working on 3rd floor,Printer on 3rd floor throws paper jam error frequently.,Closed,Diana,2025-04-09T21:04:18.558911,Printing,Critical
+TKT-0286,Outlook not syncing emails,Emails are not syncing across desktop and mobile devices.,Closed,Eric,2025-04-09T21:04:18.560927,Software,Critical
+TKT-0287,Account locked after failed attempts,User account locked due to multiple failed login attempts.,Closed,Eric,2025-04-09T21:04:18.562930,Access Management,High
+TKT-0288,Password reset required,User forgot their password and is locked out of their account.,Closed,Charlie,2025-04-09T21:04:18.564447,Access Management,Low
+TKT-0289,Unable to access intranet,User reports they cannot access the internal bank portal.,Closed,Charlie,2025-04-09T21:04:18.566471,Software,Low
+TKT-0290,Password reset required,User forgot their password and is locked out of their account.,Closed,Fernando,2025-04-09T21:04:18.568996,System Performance,Low
+TKT-0291,Missing email from inbox,User cannot locate important client email in inbox.,Closed,Charlie,2025-04-09T21:04:18.570997,Monitoring,High
+TKT-0292,Blue screen error on startup,User encounters BSOD during startup with error 0x0000007B.,Closed,Charlie,2025-04-09T21:04:18.572992,Access Management,Medium
+TKT-0293,File recovery request,Need help recovering accidentally deleted financial files.,Closed,Fernando,2025-04-09T21:04:18.575520,Software Issue,Critical
+TKT-0294,Request for admin privileges,User requests temporary admin access to install software.,Closed,Fernando,2025-04-09T21:04:18.577525,Network Issue,Low
+TKT-0295,Two-factor authentication setup,Help needed to configure 2FA for remote login.,Closed,Bob,2025-04-09T21:04:18.579525,Security,Medium
+TKT-0296,Two-factor authentication setup,Help needed to configure 2FA for remote login.,Closed,Eric,2025-04-09T21:04:18.581939,Access Management,High
+TKT-0297,Monitor not detecting input,Monitor screen remains black despite power supply.,Closed,Fernando,2025-04-09T21:04:18.584445,Hardware,High
+TKT-0298,Install antivirus software,Antivirus software missing on workstation.,Closed,Bob,2025-04-09T21:04:18.586461,Software,High
+TKT-0299,Unable to access intranet,User reports they cannot access the internal bank portal.,Closed,Diana,2025-04-09T21:04:18.588467,Security,Low
+TKT-0300,Monitor not detecting input,Monitor screen remains black despite power supply.,Closed,Charlie,2025-04-09T21:04:18.591460,Monitoring,Medium
+TKT-0301,Mouse and keyboard unresponsive,Mouse and keyboard are not responding after reboot.,Closed,Charlie,2025-04-09T21:04:18.593459,Printing,Medium
+TKT-0302,Laptop overheating frequently,Laptop CPU temperatures exceed 90°C while idle.,Closed,Conor,2025-04-09T21:04:18.595513,Software,Low
+TKT-0303,New employee onboarding setup,New employee joining on Monday requires system setup.,Closed,Vivek,2025-04-09T21:04:18.598515,Access Management,Low
+TKT-0304,Access request for finance folder,Need read-only access to finance folder for audit purposes.,Closed,Diana,2025-04-09T21:04:18.601520,Monitoring,Critical
+TKT-0305,New employee onboarding setup,New employee joining on Monday requires system setup.,Closed,Paul,2025-04-09T21:04:18.603520,Software Issue,Medium
+TKT-0306,Monitor not detecting input,Monitor screen remains black despite power supply.,Closed,Fernando,2025-04-09T21:04:18.605666,Security,Low
+TKT-0307,Account locked after failed attempts,User account locked due to multiple failed login attempts.,Closed,Vivek,2025-04-09T21:04:18.607664,Printing,Medium
+TKT-0308,Password reset required,User forgot their password and is locked out of their account.,Closed,Alice,2025-04-09T21:04:18.610671,Software,High
+TKT-0309,Account locked after failed attempts,User account locked due to multiple failed login attempts.,Closed,Alice,2025-04-09T21:04:18.612679,Printing,High
+TKT-0310,Unable to access intranet,User reports they cannot access the internal bank portal.,Closed,Alice,2025-04-09T21:04:18.614672,Monitoring,Medium
+TKT-0311,File recovery request,Need help recovering accidentally deleted financial files.,Closed,Vivek,2025-04-09T21:04:18.617180,User Support,Low
+TKT-0312,System slowness during login,Multiple users report slow login times in the morning.,Closed,Fernando,2025-04-09T21:04:18.618699,Access Management,Critical
+TKT-0313,Install antivirus software,Antivirus software missing on workstation.,Closed,Charlie,2025-04-09T21:04:18.621720,Monitoring,Low
+TKT-0314,Install antivirus software,Antivirus software missing on workstation.,Closed,Bob,2025-04-09T21:04:18.623714,Network Issue,Critical
+TKT-0315,Software update failure,Update failed with error code 0x800f0831 on several machines.,Closed,Alice,2025-04-09T21:04:18.627243,Software Issue,High
+TKT-0316,Outlook not syncing emails,Emails are not syncing across desktop and mobile devices.,Closed,Diana,2025-04-09T21:04:18.629769,Software,Medium
+TKT-0317,Mouse and keyboard unresponsive,Mouse and keyboard are not responding after reboot.,Closed,Bob,2025-04-09T21:04:18.631775,System Performance,High
+TKT-0318,File recovery request,Need help recovering accidentally deleted financial files.,Closed,Alice,2025-04-09T21:04:18.634782,User Support,Medium
+TKT-0319,Blue screen error on startup,User encounters BSOD during startup with error 0x0000007B.,Closed,Eric,2025-04-09T21:04:18.636312,Email,High
+TKT-0320,System slowness during login,Multiple users report slow login times in the morning.,Closed,Charlie,2025-04-09T21:04:18.638816,Software Issue,Medium
+TKT-0321,Install antivirus software,Antivirus software missing on workstation.,Closed,Diana,2025-04-09T21:04:18.640824,Monitoring,Critical
+TKT-0322,Outlook not syncing emails,Emails are not syncing across desktop and mobile devices.,Closed,Paul,2025-04-09T21:04:18.643827,Software Issue,Low
+TKT-0323,Monitor not detecting input,Monitor screen remains black despite power supply.,Closed,Eric,2025-04-09T21:04:18.646353,Hardware,Low
+TKT-0324,Account locked after failed attempts,User account locked due to multiple failed login attempts.,Closed,Fernando,2025-04-09T21:04:18.647362,Security,High
+TKT-0325,Software update failure,Update failed with error code 0x800f0831 on several machines.,Closed,Charlie,2025-04-09T21:04:18.650897,Software Issue,Critical
+TKT-0326,Two-factor authentication setup,Help needed to configure 2FA for remote login.,Closed,Conor,2025-04-09T21:04:18.652897,System Performance,Critical
+TKT-0327,Blue screen error on startup,User encounters BSOD during startup with error 0x0000007B.,Closed,Diana,2025-04-09T21:04:18.655434,Printing,High
+TKT-0328,Install antivirus software,Antivirus software missing on workstation.,Closed,Eric,2025-04-09T21:04:18.657431,Email,High
+TKT-0329,System slowness during login,Multiple users report slow login times in the morning.,Closed,Eric,2025-04-09T21:04:18.662958,Network Issue,Low
+TKT-0330,Blue screen error on startup,User encounters BSOD during startup with error 0x0000007B.,Closed,Fernando,2025-04-09T21:04:18.665476,Access Management,Critical
+TKT-0331,VPN connection timeout,VPN disconnects after 5 minutes of use.,Closed,Bob,2025-04-09T21:04:18.667474,Security,Medium
+TKT-0332,Mouse and keyboard unresponsive,Mouse and keyboard are not responding after reboot.,Closed,Charlie,2025-04-09T21:04:18.669474,Security,Low
+TKT-0333,Blue screen error on startup,User encounters BSOD during startup with error 0x0000007B.,Closed,Paul,2025-04-09T21:04:18.672479,Software Issue,Medium
+TKT-0334,Account locked after failed attempts,User account locked due to multiple failed login attempts.,Closed,Paul,2025-04-09T21:04:18.674473,Printing,High
+TKT-0335,New employee onboarding setup,New employee joining on Monday requires system setup.,Closed,Vivek,2025-04-09T21:04:18.676622,Hardware,High
+TKT-0336,Install antivirus software,Antivirus software missing on workstation.,Closed,Conor,2025-04-09T21:04:18.679621,Hardware,Critical
+TKT-0337,Printer not working on 3rd floor,Printer on 3rd floor throws paper jam error frequently.,Closed,Paul,2025-04-09T21:04:18.682149,Access Management,Medium
+TKT-0338,Laptop overheating frequently,Laptop CPU temperatures exceed 90°C while idle.,Closed,Diana,2025-04-09T21:04:18.684662,Software,High
+TKT-0339,Monitor not detecting input,Monitor screen remains black despite power supply.,Closed,Alice,2025-04-09T21:04:18.686681,Printing,Low
+TKT-0340,Request for admin privileges,User requests temporary admin access to install software.,Closed,Charlie,2025-04-09T21:04:18.689677,Email,Low
+TKT-0341,File recovery request,Need help recovering accidentally deleted financial files.,Closed,Vivek,2025-04-09T21:04:18.692676,Monitoring,Critical
+TKT-0342,Account locked after failed attempts,User account locked due to multiple failed login attempts.,Closed,Bob,2025-04-09T21:04:18.695194,Access Management,High
+TKT-0343,Mouse and keyboard unresponsive,Mouse and keyboard are not responding after reboot.,Closed,Bob,2025-04-09T21:04:18.697205,Software Issue,High
+TKT-0344,Two-factor authentication setup,Help needed to configure 2FA for remote login.,Closed,Charlie,2025-04-09T21:04:18.700743,Hardware,High
+TKT-0345,System slowness during login,Multiple users report slow login times in the morning.,Closed,Bob,2025-04-09T21:04:18.703749,Email,Low
+TKT-0346,New employee onboarding setup,New employee joining on Monday requires system setup.,Closed,Fernando,2025-04-09T21:04:18.706944,Access Management,Critical
+TKT-0347,Mouse and keyboard unresponsive,Mouse and keyboard are not responding after reboot.,Closed,Fernando,2025-04-09T21:04:18.709958,System Performance,Critical
+TKT-0348,Missing email from inbox,User cannot locate important client email in inbox.,Closed,Eric,2025-04-09T21:04:18.711957,User Support,High
+TKT-0349,Request for admin privileges,User requests temporary admin access to install software.,Closed,Paul,2025-04-09T21:04:18.715475,Email,High
+TKT-0350,Mouse and keyboard unresponsive,Mouse and keyboard are not responding after reboot.,Closed,Vivek,2025-04-09T21:04:18.718475,Software,High
+TKT-0351,Monitor not detecting input,Monitor screen remains black despite power supply.,Closed,Diana,2025-04-09T21:04:18.722552,Software Issue,High
+TKT-0352,Outlook not syncing emails,Emails are not syncing across desktop and mobile devices.,Closed,Eric,2025-04-09T21:04:18.726129,Software Issue,Medium
+TKT-0353,Two-factor authentication setup,Help needed to configure 2FA for remote login.,Closed,Fernando,2025-04-09T21:04:18.730745,Software,Critical
+TKT-0354,Account locked after failed attempts,User account locked due to multiple failed login attempts.,Closed,Paul,2025-04-09T21:04:18.733748,Email,Medium
+TKT-0355,Monitor not detecting input,Monitor screen remains black despite power supply.,Closed,Paul,2025-04-09T21:04:18.737985,Security,Critical
+TKT-0356,Cannot connect to shared drive,Shared drive not visible under network locations.,Closed,Conor,2025-04-09T21:04:18.739982,Email,Medium
+TKT-0357,VPN connection timeout,VPN disconnects after 5 minutes of use.,Closed,Vivek,2025-04-09T21:04:18.742982,User Support,Medium
+TKT-0358,File recovery request,Need help recovering accidentally deleted financial files.,Closed,Eric,2025-04-09T21:04:18.745496,Hardware,High
+TKT-0359,Access request for finance folder,Need read-only access to finance folder for audit purposes.,Closed,Conor,2025-04-09T21:04:18.747503,Hardware,Low
+TKT-0360,Password reset required,User forgot their password and is locked out of their account.,Closed,Paul,2025-04-09T21:04:18.750503,System Performance,Medium
+TKT-0361,System slowness during login,Multiple users report slow login times in the morning.,Closed,Charlie,2025-04-09T21:04:18.753497,Software Issue,High
+TKT-0362,Mouse and keyboard unresponsive,Mouse and keyboard are not responding after reboot.,Closed,Fernando,2025-04-09T21:04:18.756014,Monitoring,Medium
+TKT-0363,Password reset required,User forgot their password and is locked out of their account.,Closed,Eric,2025-04-09T21:04:18.758538,Email,High
+TKT-0364,Laptop overheating frequently,Laptop CPU temperatures exceed 90°C while idle.,Closed,Fernando,2025-04-09T21:04:18.761554,Hardware,Critical
+TKT-0365,Mouse and keyboard unresponsive,Mouse and keyboard are not responding after reboot.,Closed,Conor,2025-04-09T21:04:18.764554,Hardware,Critical
+TKT-0366,Monitor not detecting input,Monitor screen remains black despite power supply.,Closed,Bob,2025-04-09T21:04:18.767797,Hardware,High
+TKT-0367,Outlook not syncing emails,Emails are not syncing across desktop and mobile devices.,Closed,Diana,2025-04-09T21:04:18.770792,Network Issue,Critical
+TKT-0368,File recovery request,Need help recovering accidentally deleted financial files.,Closed,Alice,2025-04-09T21:04:18.773787,Monitoring,High
+TKT-0369,Account locked after failed attempts,User account locked due to multiple failed login attempts.,Closed,Conor,2025-04-09T21:04:18.776311,Network Issue,Low
+TKT-0370,Monitor not detecting input,Monitor screen remains black despite power supply.,Closed,Eric,2025-04-09T21:04:18.779830,Software,Medium
+TKT-0371,Mouse and keyboard unresponsive,Mouse and keyboard are not responding after reboot.,Closed,Paul,2025-04-09T21:04:18.782847,Software Issue,Critical
+TKT-0372,File recovery request,Need help recovering accidentally deleted financial files.,Closed,Eric,2025-04-09T21:04:18.785363,Software Issue,High
+TKT-0373,Request for admin privileges,User requests temporary admin access to install software.,Closed,Bob,2025-04-09T21:04:18.788882,Printing,Low
+TKT-0374,Install antivirus software,Antivirus software missing on workstation.,Closed,Conor,2025-04-09T21:04:18.791897,Software Issue,Medium
+TKT-0375,Missing email from inbox,User cannot locate important client email in inbox.,Closed,Fernando,2025-04-09T21:04:18.794405,Security,Critical
+TKT-0376,Password reset required,User forgot their password and is locked out of their account.,Closed,Vivek,2025-04-09T21:04:18.797422,Access Management,Critical
+TKT-0377,System slowness during login,Multiple users report slow login times in the morning.,Closed,Alice,2025-04-09T21:04:18.800416,System Performance,Medium
+TKT-0378,Password reset required,User forgot their password and is locked out of their account.,Closed,Eric,2025-04-09T21:04:18.802416,System Performance,High
+TKT-0379,File recovery request,Need help recovering accidentally deleted financial files.,Closed,Diana,2025-04-09T21:04:18.805549,User Support,High
+TKT-0380,VPN connection timeout,VPN disconnects after 5 minutes of use.,Closed,Paul,2025-04-09T21:04:18.808551,System Performance,Low
+TKT-0381,Outlook not syncing emails,Emails are not syncing across desktop and mobile devices.,Closed,Fernando,2025-04-09T21:04:18.811556,Security,Low
+TKT-0382,Unable to access intranet,User reports they cannot access the internal bank portal.,Closed,Paul,2025-04-09T21:04:18.814547,Hardware,Critical
+TKT-0383,Software update failure,Update failed with error code 0x800f0831 on several machines.,Closed,Paul,2025-04-09T21:04:18.817639,Access Management,Medium
+TKT-0384,Missing email from inbox,User cannot locate important client email in inbox.,Closed,Charlie,2025-04-09T21:04:18.820640,Printing,Critical
+TKT-0385,Cannot connect to shared drive,Shared drive not visible under network locations.,Closed,Vivek,2025-04-09T21:04:18.823649,Software Issue,Critical
+TKT-0386,File recovery request,Need help recovering accidentally deleted financial files.,Closed,Alice,2025-04-09T21:04:18.826182,Security,Medium
+TKT-0387,VPN connection timeout,VPN disconnects after 5 minutes of use.,Closed,Bob,2025-04-09T21:04:18.829709,Printing,Critical
+TKT-0388,Access request for finance folder,Need read-only access to finance folder for audit purposes.,Closed,Fernando,2025-04-09T21:04:18.832709,Network Issue,High
+TKT-0389,New employee onboarding setup,New employee joining on Monday requires system setup.,Closed,Conor,2025-04-09T21:04:18.835233,Hardware,Critical
+TKT-0390,VPN connection timeout,VPN disconnects after 5 minutes of use.,Closed,Fernando,2025-04-09T21:04:18.838758,User Support,Critical
+TKT-0391,Blue screen error on startup,User encounters BSOD during startup with error 0x0000007B.,Closed,Fernando,2025-04-09T21:04:18.841774,System Performance,Critical
+TKT-0392,System slowness during login,Multiple users report slow login times in the morning.,Closed,Charlie,2025-04-09T21:04:18.844766,Email,Medium
+TKT-0393,Cannot connect to shared drive,Shared drive not visible under network locations.,Closed,Conor,2025-04-09T21:04:18.847280,Security,Critical
+TKT-0394,Printer not working on 3rd floor,Printer on 3rd floor throws paper jam error frequently.,Closed,Eric,2025-04-09T21:04:18.850790,System Performance,High
+TKT-0395,VPN connection timeout,VPN disconnects after 5 minutes of use.,Closed,Diana,2025-04-09T21:04:18.853791,Email,Medium
+TKT-0396,System slowness during login,Multiple users report slow login times in the morning.,Closed,Paul,2025-04-09T21:04:18.856302,Access Management,High
+TKT-0397,File recovery request,Need help recovering accidentally deleted financial files.,Closed,Conor,2025-04-09T21:04:18.859820,Network Issue,High
+TKT-0398,Outlook not syncing emails,Emails are not syncing across desktop and mobile devices.,Closed,Charlie,2025-04-09T21:04:18.862824,Email,Critical
+TKT-0399,Install antivirus software,Antivirus software missing on workstation.,Closed,Diana,2025-04-09T21:04:18.866330,Hardware,Medium
+TKT-0400,Missing email from inbox,User cannot locate important client email in inbox.,Closed,Alice,2025-04-09T21:04:18.868998,Email,Critical
+TKT-0401,Missing email from inbox,User cannot locate important client email in inbox.,Closed,Eric,2025-04-09T21:04:18.872093,Software Issue,High
+TKT-0402,Access request for finance folder,Need read-only access to finance folder for audit purposes.,Closed,Charlie,2025-04-09T21:04:18.874657,Hardware,Low
+TKT-0403,File recovery request,Need help recovering accidentally deleted financial files.,Closed,Bob,2025-04-09T21:04:18.877668,User Support,Critical
+TKT-0404,Cannot connect to shared drive,Shared drive not visible under network locations.,Closed,Bob,2025-04-09T21:04:18.881219,Security,Critical
+TKT-0405,Monitor not detecting input,Monitor screen remains black despite power supply.,Closed,Fernando,2025-04-09T21:04:18.883219,Email,High
+TKT-0406,Install antivirus software,Antivirus software missing on workstation.,Closed,Vivek,2025-04-09T21:04:18.885738,Email,High
+TKT-0407,System slowness during login,Multiple users report slow login times in the morning.,Closed,Bob,2025-04-09T21:04:18.889739,Printing,Medium
+TKT-0408,Monitor not detecting input,Monitor screen remains black despite power supply.,Closed,Paul,2025-04-09T21:04:18.891738,Network Issue,Critical
+TKT-0409,Two-factor authentication setup,Help needed to configure 2FA for remote login.,Closed,Diana,2025-04-09T21:04:18.894739,Monitoring,Critical
+TKT-0410,Access request for finance folder,Need read-only access to finance folder for audit purposes.,Closed,Vivek,2025-04-09T21:04:18.897249,Software Issue,Critical
+TKT-0411,Install antivirus software,Antivirus software missing on workstation.,Closed,Paul,2025-04-09T21:04:18.899761,Security,Low
+TKT-0412,Outlook not syncing emails,Emails are not syncing across desktop and mobile devices.,Closed,Conor,2025-04-09T21:04:18.901761,System Performance,High
+TKT-0413,Account locked after failed attempts,User account locked due to multiple failed login attempts.,Closed,Paul,2025-04-09T21:04:18.904761,Network Issue,High
+TKT-0414,Monitor not detecting input,Monitor screen remains black despite power supply.,Closed,Eric,2025-04-09T21:04:18.907271,Software,Low
+TKT-0415,Unable to access intranet,User reports they cannot access the internal bank portal.,Closed,Paul,2025-04-09T21:04:18.909783,System Performance,High
+TKT-0416,Blue screen error on startup,User encounters BSOD during startup with error 0x0000007B.,Closed,Fernando,2025-04-09T21:04:18.911784,Network Issue,Medium
+TKT-0417,Printer not working on 3rd floor,Printer on 3rd floor throws paper jam error frequently.,Closed,Paul,2025-04-09T21:04:18.914783,Hardware,Medium
+TKT-0418,Cannot connect to shared drive,Shared drive not visible under network locations.,Closed,Paul,2025-04-09T21:04:18.917293,System Performance,High
+TKT-0419,Software update failure,Update failed with error code 0x800f0831 on several machines.,Closed,Vivek,2025-04-09T21:04:18.919805,Hardware,Critical
+TKT-0420,File recovery request,Need help recovering accidentally deleted financial files.,Closed,Vivek,2025-04-09T21:04:18.922806,Software Issue,Low
+TKT-0421,Unable to access intranet,User reports they cannot access the internal bank portal.,Closed,Fernando,2025-04-09T21:04:18.925310,User Support,Medium
+TKT-0422,Unable to access intranet,User reports they cannot access the internal bank portal.,Closed,Diana,2025-04-09T21:04:18.927315,User Support,High
+TKT-0423,Cannot connect to shared drive,Shared drive not visible under network locations.,Closed,Bob,2025-04-09T21:04:18.929827,User Support,Medium
+TKT-0424,Password reset required,User forgot their password and is locked out of their account.,Closed,Charlie,2025-04-09T21:04:18.932828,Security,Medium
+TKT-0425,Install antivirus software,Antivirus software missing on workstation.,Closed,Vivek,2025-04-09T21:04:18.935332,System Performance,Critical
+TKT-0426,Printer not working on 3rd floor,Printer on 3rd floor throws paper jam error frequently.,Closed,Charlie,2025-04-09T21:04:18.937337,Hardware,High
+TKT-0427,New employee onboarding setup,New employee joining on Monday requires system setup.,Closed,Paul,2025-04-09T21:04:18.940850,System Performance,Low
+TKT-0428,Unable to access intranet,User reports they cannot access the internal bank portal.,Closed,Paul,2025-04-09T21:04:18.942850,Network Issue,High
+TKT-0429,Cannot connect to shared drive,Shared drive not visible under network locations.,Closed,Fernando,2025-04-09T21:04:18.945354,Security,High
+TKT-0430,Cannot connect to shared drive,Shared drive not visible under network locations.,Closed,Eric,2025-04-09T21:04:18.948864,Monitoring,Medium
+TKT-0431,Account locked after failed attempts,User account locked due to multiple failed login attempts.,Closed,Charlie,2025-04-09T21:04:18.950939,Software Issue,High
+TKT-0432,Laptop overheating frequently,Laptop CPU temperatures exceed 90°C while idle.,Closed,Charlie,2025-04-09T21:04:18.954524,System Performance,Critical
+TKT-0433,Cannot connect to shared drive,Shared drive not visible under network locations.,Closed,Charlie,2025-04-09T21:04:18.956596,Security,Low
+TKT-0434,Request for admin privileges,User requests temporary admin access to install software.,Closed,Bob,2025-04-09T21:04:18.959529,Software Issue,Medium
+TKT-0435,Request for admin privileges,User requests temporary admin access to install software.,Closed,Charlie,2025-04-09T21:04:18.961536,Email,Medium
+TKT-0436,VPN connection timeout,VPN disconnects after 5 minutes of use.,Closed,Charlie,2025-04-09T21:04:18.964529,Security,Low
+TKT-0437,System slowness during login,Multiple users report slow login times in the morning.,Closed,Alice,2025-04-09T21:04:18.967870,Network Issue,Medium
+TKT-0438,Blue screen error on startup,User encounters BSOD during startup with error 0x0000007B.,Closed,Conor,2025-04-09T21:04:18.969876,Monitoring,Medium
+TKT-0439,Request for admin privileges,User requests temporary admin access to install software.,Closed,Conor,2025-04-09T21:04:18.972870,Hardware,Low
+TKT-0440,Printer not working on 3rd floor,Printer on 3rd floor throws paper jam error frequently.,Closed,Eric,2025-04-09T21:04:18.974877,Monitoring,Low
+TKT-0441,Blue screen error on startup,User encounters BSOD during startup with error 0x0000007B.,Closed,Vivek,2025-04-09T21:04:18.977193,Software,High
+TKT-0442,Request for admin privileges,User requests temporary admin access to install software.,Closed,Conor,2025-04-09T21:04:18.980745,Printing,High
+TKT-0443,Cannot connect to shared drive,Shared drive not visible under network locations.,Closed,Bob,2025-04-09T21:04:18.982739,Security,High
+TKT-0444,Monitor not detecting input,Monitor screen remains black despite power supply.,Closed,Fernando,2025-04-09T21:04:18.985256,Software Issue,Critical
+TKT-0445,Monitor not detecting input,Monitor screen remains black despite power supply.,Closed,Paul,2025-04-09T21:04:18.987254,Access Management,Critical
+TKT-0446,Password reset required,User forgot their password and is locked out of their account.,Closed,Alice,2025-04-09T21:04:18.990780,Security,Medium
+TKT-0447,Outlook not syncing emails,Emails are not syncing across desktop and mobile devices.,Closed,Diana,2025-04-09T21:04:18.993787,Email,High
+TKT-0448,Unable to access intranet,User reports they cannot access the internal bank portal.,Closed,Eric,2025-04-09T21:04:18.996105,Hardware,Low
+TKT-0449,Install antivirus software,Antivirus software missing on workstation.,Closed,Diana,2025-04-09T21:04:18.998608,Monitoring,Medium
+TKT-0450,Software update failure,Update failed with error code 0x800f0831 on several machines.,Closed,Fernando,2025-04-09T21:04:19.001616,User Support,High
+TKT-0451,Outlook not syncing emails,Emails are not syncing across desktop and mobile devices.,Closed,Bob,2025-04-09T21:04:19.003623,Security,Critical
+TKT-0452,New employee onboarding setup,New employee joining on Monday requires system setup.,Closed,Alice,2025-04-09T21:04:19.006954,Printing,High
+TKT-0453,Access request for finance folder,Need read-only access to finance folder for audit purposes.,Closed,Conor,2025-04-09T21:04:19.009477,Security,Medium
+TKT-0454,Install antivirus software,Antivirus software missing on workstation.,Closed,Alice,2025-04-09T21:04:19.012489,System Performance,Critical
+TKT-0455,Blue screen error on startup,User encounters BSOD during startup with error 0x0000007B.,Closed,Fernando,2025-04-09T21:04:19.014485,Access Management,Medium
+TKT-0456,New employee onboarding setup,New employee joining on Monday requires system setup.,Closed,Conor,2025-04-09T21:04:19.017553,Network Issue,Critical
+TKT-0457,Unable to access intranet,User reports they cannot access the internal bank portal.,Closed,Fernando,2025-04-09T21:04:19.020543,Software,High
+TKT-0458,Access request for finance folder,Need read-only access to finance folder for audit purposes.,Closed,Conor,2025-04-09T21:04:19.023555,Printing,High
+TKT-0459,Request for admin privileges,User requests temporary admin access to install software.,Closed,Eric,2025-04-09T21:04:19.026070,Security,High
+TKT-0460,Outlook not syncing emails,Emails are not syncing across desktop and mobile devices.,Closed,Paul,2025-04-09T21:04:19.028599,Hardware,Critical
+TKT-0461,Cannot connect to shared drive,Shared drive not visible under network locations.,Closed,Fernando,2025-04-09T21:04:19.031615,Security,Low
+TKT-0462,Outlook not syncing emails,Emails are not syncing across desktop and mobile devices.,Closed,Eric,2025-04-09T21:04:19.034616,Network Issue,Critical
+TKT-0463,Blue screen error on startup,User encounters BSOD during startup with error 0x0000007B.,Closed,Diana,2025-04-09T21:04:19.037135,Printing,Medium
+TKT-0464,New employee onboarding setup,New employee joining on Monday requires system setup.,Closed,Conor,2025-04-09T21:04:19.039668,Network Issue,Low
+TKT-0465,System slowness during login,Multiple users report slow login times in the morning.,Closed,Eric,2025-04-09T21:04:19.042666,Monitoring,High
+TKT-0466,Password reset required,User forgot their password and is locked out of their account.,Closed,Alice,2025-04-09T21:04:19.046177,Network Issue,High
+TKT-0467,Request for admin privileges,User requests temporary admin access to install software.,Closed,Conor,2025-04-09T21:04:19.048691,Software,High
+TKT-0468,Unable to access intranet,User reports they cannot access the internal bank portal.,Closed,Paul,2025-04-09T21:04:19.051703,Software Issue,High
+TKT-0469,Unable to access intranet,User reports they cannot access the internal bank portal.,Closed,Bob,2025-04-09T21:04:19.054695,Security,Low
+TKT-0470,Outlook not syncing emails,Emails are not syncing across desktop and mobile devices.,Closed,Charlie,2025-04-09T21:04:19.058415,Monitoring,Critical
+TKT-0471,Blue screen error on startup,User encounters BSOD during startup with error 0x0000007B.,Closed,Charlie,2025-04-09T21:04:19.060947,Email,Medium
+TKT-0472,New employee onboarding setup,New employee joining on Monday requires system setup.,Closed,Charlie,2025-04-09T21:04:19.064455,System Performance,Low
+TKT-0473,Access request for finance folder,Need read-only access to finance folder for audit purposes.,Closed,Bob,2025-04-09T21:04:19.067467,Hardware,High
+TKT-0474,Missing email from inbox,User cannot locate important client email in inbox.,Closed,Diana,2025-04-09T21:04:19.070470,Security,Low
+TKT-0475,Two-factor authentication setup,Help needed to configure 2FA for remote login.,Closed,Conor,2025-04-09T21:04:19.074466,Access Management,High
+TKT-0476,Account locked after failed attempts,User account locked due to multiple failed login attempts.,Closed,Conor,2025-04-09T21:04:19.076984,System Performance,Low
+TKT-0477,Laptop overheating frequently,Laptop CPU temperatures exceed 90°C while idle.,Closed,Vivek,2025-04-09T21:04:19.081017,Hardware,High
+TKT-0478,Missing email from inbox,User cannot locate important client email in inbox.,Closed,Charlie,2025-04-09T21:04:19.083017,Network Issue,Low
+TKT-0479,Outlook not syncing emails,Emails are not syncing across desktop and mobile devices.,Closed,Bob,2025-04-09T21:04:19.086534,Email,Low
+TKT-0480,Request for admin privileges,User requests temporary admin access to install software.,Closed,Alice,2025-04-09T21:04:19.089534,Software Issue,Low
+TKT-0481,Mouse and keyboard unresponsive,Mouse and keyboard are not responding after reboot.,Closed,Eric,2025-04-09T21:04:19.092536,System Performance,Medium
+TKT-0482,Outlook not syncing emails,Emails are not syncing across desktop and mobile devices.,Closed,Vivek,2025-04-09T21:04:19.095056,System Performance,Medium
+TKT-0483,Software update failure,Update failed with error code 0x800f0831 on several machines.,Closed,Bob,2025-04-09T21:04:19.097054,User Support,High
+TKT-0484,Access request for finance folder,Need read-only access to finance folder for audit purposes.,Closed,Alice,2025-04-09T21:04:19.100573,Network Issue,Low
+TKT-0485,Password reset required,User forgot their password and is locked out of their account.,Closed,Diana,2025-04-09T21:04:19.102572,Printing,Low
+TKT-0486,Printer not working on 3rd floor,Printer on 3rd floor throws paper jam error frequently.,Closed,Conor,2025-04-09T21:04:19.105715,Hardware,Medium
+TKT-0487,Software update failure,Update failed with error code 0x800f0831 on several machines.,Closed,Conor,2025-04-09T21:04:19.108801,User Support,Low
+TKT-0488,Two-factor authentication setup,Help needed to configure 2FA for remote login.,Closed,Bob,2025-04-09T21:04:19.111790,System Performance,Critical
+TKT-0489,Two-factor authentication setup,Help needed to configure 2FA for remote login.,Closed,Bob,2025-04-09T21:04:19.113776,Software,Critical
+TKT-0490,Cannot connect to shared drive,Shared drive not visible under network locations.,Closed,Paul,2025-04-09T21:04:19.116288,User Support,Medium
+TKT-0491,Software update failure,Update failed with error code 0x800f0831 on several machines.,Closed,Diana,2025-04-09T21:04:19.119811,Software Issue,Medium
+TKT-0492,Two-factor authentication setup,Help needed to configure 2FA for remote login.,Closed,Alice,2025-04-09T21:04:19.121824,Email,Critical
+TKT-0493,Request for admin privileges,User requests temporary admin access to install software.,Closed,Paul,2025-04-09T21:04:19.125335,Hardware,High
+TKT-0494,Access request for finance folder,Need read-only access to finance folder for audit purposes.,Closed,Diana,2025-04-09T21:04:19.127341,Security,Low
+TKT-0495,Install antivirus software,Antivirus software missing on workstation.,Closed,Eric,2025-04-09T21:04:19.130858,User Support,Medium
+TKT-0496,VPN connection timeout,VPN disconnects after 5 minutes of use.,Closed,Paul,2025-04-09T21:04:19.132857,System Performance,High
+TKT-0497,Laptop overheating frequently,Laptop CPU temperatures exceed 90°C while idle.,Closed,Bob,2025-04-09T21:04:19.137044,System Performance,Low
+TKT-0498,Two-factor authentication setup,Help needed to configure 2FA for remote login.,Closed,Fernando,2025-04-09T21:04:19.140559,System Performance,Critical
+TKT-0499,Monitor not detecting input,Monitor screen remains black despite power supply.,Closed,Paul,2025-04-09T21:04:19.143569,Printing,Low
+TKT-0500,File recovery request,Need help recovering accidentally deleted financial files.,Closed,Vivek,2025-04-09T21:04:19.147086,Monitoring,High

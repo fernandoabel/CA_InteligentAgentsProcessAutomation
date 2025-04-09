@@ -1,0 +1,10 @@
+user_id,name,email,role,phone
+USER-0001,Alice,alice@email.ie,Analyst,+1-202-620-8930
+USER-0002,Bob,bob@email.ie,Analyst,+1-202-209-8010
+USER-0003,Charlie,charlie@email.ie,Engineer,+1-202-415-2139
+USER-0004,Diana,diana@email.ie,Engineer,+1-202-201-8660
+USER-0005,Eric,eric@email.ie,QA Tester,+1-202-592-7939
+USER-0006,Fernando,fernando@email.ie,Engineer,+1-202-195-5651
+USER-0007,Vivek,vivek@email.ie,Engineer,+1-202-869-9167
+USER-0008,Paul,paul@email.ie,Engineer,+1-202-287-5535
+USER-0009,Conor,conor@email.ie,Engineer,+1-202-200-5285
