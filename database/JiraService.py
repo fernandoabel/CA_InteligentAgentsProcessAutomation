@@ -128,9 +128,9 @@ class JiraMockService:
         # Define some creative categories and priorities
         categories = [
             "Software Issue", "Network Issue", "Hardware", "Software", "Access Management", "Security",
-            "System Performance", "User Support", "Email", "Printing", "Monitoring"
+            "System Performance", "User Support", "Email", "Printing", "Monitoring", None
         ]
-        priorities = ["Low", "Medium", "High", "Critical"]
+        priorities = ["Low", "Medium", "High", "Critical", None]
 
 
         if len(jira.get_all_users()) == 0:
